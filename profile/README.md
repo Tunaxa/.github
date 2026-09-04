@@ -7,12 +7,12 @@ relationships, security, and the knowledge that connects them.
 
 ## Explore the ecosystem
 
-| Project                       | What it is                                            |
-| ----------------------------- | ----------------------------------------------------- |
-| [axa-website](../axa-website) | The Tunaxa home base                                  |
-| [axa-crm](../axa-crm)         | A clear, capable workspace for customer relationships |
-| [axa-pass](../axa-pass)       | Secure password management for everyday access        |
-| [axa-docs](../axa-docs)       | Architecture, decisions, and onboarding notes         |
+| Project                             | What it is                                            |
+| ----------------------------------- | ----------------------------------------------------- |
+| [tunaxa-website](../tunaxa-website) | The Tunaxa home base                                  |
+| [tunaxa-crm](../tunaxa-crm)         | A clear, capable workspace for customer relationships |
+| [tunaxa-pass](../tunaxa-pass)       | Secure password management for everyday access        |
+| [tunaxa-docs](../tunaxa-docs)       | Architecture, decisions, and onboarding  notes        |
 
 ## Our approach
 

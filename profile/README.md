@@ -30,11 +30,11 @@ A CRM, a password manager, and more — built to work well apart and better toge
 
 | | Product | What it does | Status |
 |---|---|---|---|
-| <img src="./CRM Logo icon Blanc.png" width="14" alt="CRM"> | **[TUNAXA CRM](https://github.com/Tunaxa/tunaxa-crm)** | Contacts, pipelines and activity tracking for teams that sell. | ![MVP](https://img.shields.io/badge/-MVP-3B82F6?style=flat-square) |
-| <img src="./TunaxaPass Logo Blanc png.png" width="25" alt="PASS"> | **[TUNAXA PASS](https://github.com/Tunaxa/tunaxa-pass)** | Zero-knowledge password manager built security-first. | ![MVP](https://img.shields.io/badge/-MVP-3B82F6?style=flat-square) |
-| <img src="./Workspace Logo icon Blanc.png" width="15" alt="Workspace"> | **TUNAXA Workspace** | Collaboration workspace. | ![Planned](https://img.shields.io/badge/-Planned-6B7280?style=flat-square) |
-| <img src="./Sign Logo icon Blanc.png" width="15" alt="Sign"> | **TUNAXA Sign** | E-signature. | ![Planned](https://img.shields.io/badge/-Planned-6B7280?style=flat-square) |
-| <img src="./AxaPass logo icon blanc.png" width="15" alt="Book"> | **TUNAXA Book** | Scheduling and booking. | ![Planned](https://img.shields.io/badge/-Planned-6B7280?style=flat-square) |
+| <img src="./assets/crm-logo.png" width="15" alt="CRM"> | **[TUNAXA CRM](https://github.com/Tunaxa/tunaxa-crm)** | Contacts, pipelines and activity tracking for teams that sell. | ![MVP](https://img.shields.io/badge/-MVP-3B82F6?style=flat-square) |
+| <img src="./assets/pass-logo.png" width="25" alt="PASS"> | **[TUNAXA PASS](https://github.com/Tunaxa/tunaxa-pass)** | Zero-knowledge password manager built security-first. | ![MVP](https://img.shields.io/badge/-MVP-3B82F6?style=flat-square) |
+| <img src="./assets/workspace-logo.png" width="15" alt="Workspace"> | **TUNAXA Workspace** | Collaboration workspace. | ![Planned](https://img.shields.io/badge/-Planned-6B7280?style=flat-square) |
+| <img src="./assets/sign-logo.png" width="15" alt="Sign"> | **TUNAXA Sign** | E-signature. | ![Planned](https://img.shields.io/badge/-Planned-6B7280?style=flat-square) |
+| <img src="./assets/book-logo.png" width="15" alt="Book"> | **TUNAXA Book** | Scheduling and booking. | ![Planned](https://img.shields.io/badge/-Planned-6B7280?style=flat-square) |
 
 ## Built with
 
